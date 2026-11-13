@@ -220,3 +220,5 @@ __marimo__/
 .streamlit/secrets.toml
 
 vaani_malayalam_10k/
+vaani_malayalam_10k_v2/
+build/
